@@ -1,0 +1,15 @@
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\bin\Debug\net6.0\ArrSearch.exe
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\bin\Debug\net6.0\ArrSearch.deps.json
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\bin\Debug\net6.0\ArrSearch.runtimeconfig.json
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\bin\Debug\net6.0\ArrSearch.dll
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\bin\Debug\net6.0\ArrSearch.pdb
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.csproj.AssemblyReference.cache
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.AssemblyInfoInputs.cache
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.AssemblyInfo.cs
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.csproj.CoreCompileInputs.cache
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.dll
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\refint\ArrSearch.dll
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.pdb
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ArrSearch.genruntimeconfig.cache
+C:\Users\Harrison\dev\ArrSearch\ArrSearch\obj\Debug\net6.0\ref\ArrSearch.dll
